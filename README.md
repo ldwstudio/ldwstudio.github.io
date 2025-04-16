@@ -8,7 +8,6 @@ Landing professionale per presentare **LDW Studio**, uno studio indipendente e l
 [![Live Demo](https://img.shields.io/badge/Demo-online-blue?style=for-the-badge)](https://ldwstudio.github.io)
 [![Contattami](https://img.shields.io/badge/Email-luca@arredoweb.com-blue?style=for-the-badge&logo=gmail)](mailto:luca@arredoweb.com)
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)](https://ldwstudio.github.io)
-[![Hosted on GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-181717?style=for-the-badge&logo=github)](https://pages.github.com)
 
 ---
 
