@@ -16,7 +16,7 @@ Landing professionale per presentare LDW Studio, uno studio indipendente e liber
 - ✅ Animazioni fluide e navigazione smooth scroll
 - ✅ Sezioni chiare: Servizi, Chi siamo, Testimonianze
 - ✅ Call-to-action per contatto diretto
-- ✅ Collegamento alla [demo Shopify](https://ldwstudio.github.io/vetrina-shopify)
+- ✅ Collegamento alla [demo ecommerce](https://ldwstudio.github.io/vetrina-ecommerce)
 
 ---
 
@@ -30,7 +30,7 @@ Landing professionale per presentare LDW Studio, uno studio indipendente e liber
 
 ## 📌 Altri progetti
 
-👉 [Demo Landing per E-commerce Shopify](https://ldwstudio.github.io/vetrina-shopify)  
+👉 [Demo Landing per E-commerce Shopify](https://ldwstudio.github.io/vetrina-ecommerce)  
 👉 [GitHub Portfolio](https://github.com/ldwstudio)
 
 ---
